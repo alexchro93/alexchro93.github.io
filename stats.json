@@ -12,14 +12,10 @@
       "path---index-d9a5418f0955ea10b793.js",
       "path---index-d9a5418f0955ea10b793.js.map"
     ],
-    "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-17e59d9feabda0954946.js",
-      "component---src-pages-about-jsx-17e59d9feabda0954946.js.map"
-    ],
     "commons": [
-      "commons-fcbb8af1639fee4f6844.js",
+      "commons-acccd8d5af62af8068df.js",
       "build-js-styles.css",
-      "commons-fcbb8af1639fee4f6844.js.map",
+      "commons-acccd8d5af62af8068df.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -27,26 +23,22 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-404-jsx": [
-      "component---src-pages-404-jsx-a9103dad168075c30cf9.js",
-      "component---src-pages-404-jsx-a9103dad168075c30cf9.js.map"
+      "component---src-pages-404-jsx-2c61b3963170ea9defeb.js",
+      "component---src-pages-404-jsx-2c61b3963170ea9defeb.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-07ee3f7e666ecf612749.js",
-      "component---src-pages-index-jsx-07ee3f7e666ecf612749.js.map"
+      "component---src-pages-index-jsx-26055a535bb4613a0ada.js",
+      "component---src-pages-index-jsx-26055a535bb4613a0ada.js.map"
     ],
     "app": [
-      "app-808f953a5a243ff661c7.js",
+      "app-3d36324f080c3d488905.js",
       "build-js-styles.css",
-      "app-808f953a5a243ff661c7.js.map",
+      "app-3d36324f080c3d488905.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---about": [
-      "path---about-a0e39f21c11f6a62c5ab.js",
-      "path---about-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
